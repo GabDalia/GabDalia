@@ -5,4 +5,5 @@
 </div>
 <p align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=GabDalia&rank_icon=github&show_icons=true&theme=dracula&count_private=true">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=GabDalia&layout=compact&theme=radical&count_private=true">
 </p>
