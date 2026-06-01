@@ -5,10 +5,10 @@
 </div>
 <br><br>
 <p align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=GabDalia&rank_icon=github&show_icons=true&theme=dracula&count_private=true">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=GabDalia&layout=compact&theme=dracula&count_private=true">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=GabDalia&rank_icon=github&show_icons=true&theme=synthwave&count_private=true">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=GabDalia&layout=compact&theme=synthwave&count_private=true">
 
 </p>
 <p align="center">  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabDalia&theme=dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabDalia&theme=synthwave">
 </p>
